@@ -11,6 +11,7 @@ I started to collect in this repository some functions I wrote during my career 
 - *formatters:*
   - **dateStringFormat**
   - **allowOnlyNumber**
+  - **phoneFormatter**
  
 ## Hooks:
 - **useClickOutside**
